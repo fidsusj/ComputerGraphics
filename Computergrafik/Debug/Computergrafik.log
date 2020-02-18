@@ -1,0 +1,17 @@
+﻿  Textur.cpp
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(52,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(53,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(72,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(143,8): warning C4101: 'directionVector': unreferenced local variable
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(144,8): warning C4101: 'n': unreferenced local variable
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(310,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(311,12): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(356,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(418,14): warning C4101: 'z': unreferenced local variable
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(418,11): warning C4101: 'y': unreferenced local variable
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(421,6): warning C4101: 'indexBegin': unreferenced local variable
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(420,6): warning C4101: 'index': unreferenced local variable
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(418,8): warning C4101: 'x': unreferenced local variable
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(666,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Computergrafik\Textur.cpp(670,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Computergrafik.vcxproj -> C:\Users\D070497\OneDrive - SAP SE\Workspaces\VisualStudioProjects\Computergrafik\Debug\Computergrafik.exe
